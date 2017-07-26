@@ -1,0 +1,34 @@
+c:\users\rogueboy\documents\visual studio 2015\Projects\BANK\BANK\bin\Debug\BANK.exe.config
+c:\users\rogueboy\documents\visual studio 2015\Projects\BANK\BANK\bin\Debug\BANK.exe
+c:\users\rogueboy\documents\visual studio 2015\Projects\BANK\BANK\bin\Debug\BANK.pdb
+c:\users\rogueboy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.BANK_Manager_Form.resources
+c:\users\rogueboy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.Properties.Resources.resources
+c:\users\rogueboy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.csproj.GenerateResource.Cache
+c:\users\rogueboy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.exe
+c:\users\rogueboy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.pdb
+c:\users\rogueboy\documents\visual studio 2015\Projects\BANK\BANK\obj\Debug\BANK.Registration.resources
+c:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\obj\Debug\BANK.Main_BANK_Form.resources
+c:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\obj\Debug\BANK.csprojResolveAssemblyReference.cache
+c:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\obj\Debug\BANK.AddNewClient.resources
+c:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\obj\Debug\BANK.AddNewCredit.resources
+C:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\obj\Debug\BANK.AddNewPayments.resources
+C:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\obj\Debug\BANK.ChangeClientsData.resources
+C:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\obj\Debug\BANK.ChangeBankManagerData.resources
+C:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\bin\Debug\BANK.exe.manifest
+C:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\bin\Debug\BANK.application
+C:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\obj\Debug\BANK.exe.manifest
+C:\Users\Rogueboy\Documents\Visual Studio 2015\Projects\BANK\BANK\obj\Debug\BANK.application
+E:\priject\BANK\BANK\bin\Debug\BANK.exe.config
+E:\priject\BANK\BANK\obj\Debug\BANK.exe
+E:\priject\BANK\BANK\obj\Debug\BANK.pdb
+E:\priject\BANK\BANK\obj\Debug\BANK.csprojResolveAssemblyReference.cache
+E:\priject\BANK\BANK\obj\Debug\BANK.AddNewClient.resources
+E:\priject\BANK\BANK\obj\Debug\BANK.AddNewCredit.resources
+E:\priject\BANK\BANK\obj\Debug\BANK.AddNewPayments.resources
+E:\priject\BANK\BANK\obj\Debug\BANK.BANK_Manager_Form.resources
+E:\priject\BANK\BANK\obj\Debug\BANK.ChangeBankManagerData.resources
+E:\priject\BANK\BANK\obj\Debug\BANK.ChangeClientsData.resources
+E:\priject\BANK\BANK\obj\Debug\BANK.Main_BANK_Form.resources
+E:\priject\BANK\BANK\obj\Debug\BANK.Properties.Resources.resources
+E:\priject\BANK\BANK\obj\Debug\BANK.Registration.resources
+E:\priject\BANK\BANK\obj\Debug\BANK.csproj.GenerateResource.Cache
